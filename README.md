@@ -40,7 +40,7 @@ and run the solver in each language. Sample puzzles are included for testing.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/sudoku-solver.git
+    git clone https://github.com/andrewthecodertx/sudoku-solver.git
     ```
 
 1. Choose a language folder (e.g., `python`, `rust`) and follow the
